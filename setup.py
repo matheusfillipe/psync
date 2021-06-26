@@ -19,7 +19,7 @@ setuptools.setup(
     version="0.1",
     author="Matheus Fillipe",
     author_email="mattf@tilde.club",
-    description="Simple and customizable file/direcotry syncronization daemon that uses rsync and supports remote servers with ssh",
+    description="Simple and customizable file/directory synchronization daemon that uses rsync and supports remote servers with ssh",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/matheusfillipe/psync",

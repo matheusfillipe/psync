@@ -5,6 +5,7 @@
 # pidfile
 # read .ssh/config
 # sigint handler
+# expect ./config/psync/config.toml
 
 import argh
 
