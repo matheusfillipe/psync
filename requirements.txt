@@ -1,0 +1,3 @@
+argh==0.26.2
+pytoml==0.1.21
+sysrsync==0.3.2
